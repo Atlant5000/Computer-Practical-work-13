@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp16
 {
+    /// <summary>
+    /// По номеру месяца вывести название времени года.
+    /// </summary>
     internal class Program
     {
         static void Main(string[] args)
